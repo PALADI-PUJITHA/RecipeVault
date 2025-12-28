@@ -5,7 +5,7 @@ if (!user || user.role !== "admin") {
     window.location.href = "login.html";
 }
 
-const API_URL = "http://localhost:3001/recipes";
+const API_URL = "https://recipevault-f2q0.onrender.com/recipes";
 
 // ADD
 async function addRecipe() {
