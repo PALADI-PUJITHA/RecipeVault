@@ -1,10 +1,10 @@
 {
   "name": "recipe-api",
   "version": "1.0.0",
-  "description": "JSON Server for Recipe App",
+  "description": "JSON Server for RecipeVault App",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 10000"
+    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.17.3"
