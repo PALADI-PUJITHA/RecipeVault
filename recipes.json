@@ -1,0 +1,395 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Idli",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.a3nkl0LxlTzoAPZrwBgoAwHaE8?pid=Api&P=0&h=180",
+      "cuisine": "South Indian",
+      "category": "Breakfast",
+      "ingredients": [
+        "2 cups idli rice",
+        "1 cup urad dal",
+        "Salt",
+        "Water"
+      ],
+      "instructions": [
+        "Soak rice and dal separately for 6 hours",
+        "Grind into a smooth batter",
+        "Ferment overnight",
+        "Steam in idli moulds for 10 minutes"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Paneer Tikka",
+      "image": "https://www.muslimink.com/wp-content/uploads/2014/07/paneer-tikka.jpg",
+      "cuisine": "Indian",
+      "category": "Starter",
+      "ingredients": [
+        "Paneer cubes",
+        "Curd",
+        "Ginger garlic paste",
+        "Red chilli powder",
+        "Garam masala"
+      ],
+      "instructions": [
+        "Mix curd and spices",
+        "Marinate paneer for 30 minutes",
+        "Grill or pan fry till golden"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chicken Biryani",
+      "image": "https://recipes.timesofindia.com/thumb/54308405.cms?imgsize=510571&width=800&height=800",
+      "cuisine": "Indian",
+      "category": "Main Course",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken",
+        "Onions",
+        "Yogurt",
+        "Biryani masala"
+      ],
+      "instructions": [
+        "Cook rice till 70%",
+        "Marinate chicken",
+        "Layer rice and chicken",
+        "Dum cook for 25 minutes"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Vegetable Fried Rice",
+      "image": "https://www.indianveggiedelight.com/wp-content/uploads/2020/06/veg-fried-rice-featured.jpg",
+      "cuisine": "Chinese",
+      "category": "Main Course",
+      "ingredients": [
+        "Cooked rice",
+        "Carrot",
+        "Beans",
+        "Soy sauce",
+        "Garlic"
+      ],
+      "instructions": [
+        "Heat oil and sauté garlic",
+        "Add vegetables",
+        "Add rice and sauces",
+        "Stir fry on high flame"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Masala Dosa",
+      "image": "http://marhaba.qa/wp-content/uploads/2014/03/Masala-Dosa.jpg",
+      "cuisine": "South Indian",
+      "category": "Breakfast",
+      "ingredients": [
+        "Dosa batter",
+        "Potatoes",
+        "Onions",
+        "Mustard seeds",
+        "Turmeric"
+      ],
+      "instructions": [
+        "Prepare potato masala",
+        "Heat tawa and pour batter",
+        "Spread masala",
+        "Fold and serve hot"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Samosa",
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/08/Best-Indian-Punjabi-Samosa-Recipe.jpg",
+      "cuisine": "Indian",
+      "category": "Snacks",
+      "ingredients": [
+        "Maida",
+        "Potatoes",
+        "Green peas",
+        "Spices",
+        "Oil"
+      ],
+      "instructions": [
+        "Prepare dough",
+        "Make potato filling",
+        "Fill and shape samosas",
+        "Deep fry till crispy"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Gulab Jamun",
+      "image": "https://i0.wp.com/aartimadan.com/wp-content/uploads/2020/11/milk-powder-gulab-jamuns.jpg?fit=1000%2C561&ssl=1",
+      "cuisine": "Indian",
+      "category": "Dessert",
+      "ingredients": [
+        "Milk powder",
+        "Maida",
+        "Sugar",
+        "Cardamom",
+        "Ghee"
+      ],
+      "instructions": [
+        "Prepare soft dough",
+        "Make small balls",
+        "Deep fry on low flame",
+        "Soak in sugar syrup"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chocolate Milkshake",
+      "image": "https://recipefairy.com/wp-content/uploads/2019/12/chocolate-milkshake-with-icecream-scaled.jpg",
+      "cuisine": "Continental",
+      "category": "Beverages",
+      "ingredients": [
+        "Milk",
+        "Chocolate syrup",
+        "Sugar",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Add all ingredients to blender",
+        "Blend till smooth",
+        "Serve chilled"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Garlic Bread",
+      "image": "https://images.deliveryhero.io/image/foodpanda/recipes/garlic-bread-recipe-2.jpg",
+      "cuisine": "Italian",
+      "category": "Breads",
+      "ingredients": [
+        "Bread loaf",
+        "Butter",
+        "Garlic",
+        "Herbs"
+      ],
+      "instructions": [
+        "Mix butter and garlic",
+        "Spread on bread",
+        "Bake till crisp"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Pani Puri",
+      "image": "https://trexmount.com/wp-content/uploads/2023/04/Panipuri-954x530.jpg",
+      "cuisine": "Indian",
+      "category": "Street Food",
+      "ingredients": [
+        "Puri shells",
+        "Boiled potatoes",
+        "Chutneys",
+        "Spiced water"
+      ],
+      "instructions": [
+        "Prepare potato filling",
+        "Fill puris",
+        "Add chutneys and water",
+        "Serve immediately"
+      ]
+    },
+    {
+    "id": "11",
+    "name": "Veg Manchurian",
+    "image": "https://i.ytimg.com/vi/G5iUqkCLybU/maxresdefault.jpg",
+    "cuisine": "Chinese",
+    "category": "Starter",
+    "ingredients": [
+      "Cabbage",
+      "Carrot",
+      "Cornflour",
+      "Soy sauce",
+      "Garlic"
+    ],
+    "instructions": [
+      "Mix vegetables and make balls",
+      "Deep fry till crispy",
+      "Prepare sauce",
+      "Toss balls in sauce"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Aloo Paratha",
+    "image": "https://i.ytimg.com/vi/3rkXplTcAOA/maxresdefault.jpg",
+    "cuisine": "North Indian",
+    "category": "Breakfast",
+    "ingredients": [
+      "Wheat flour",
+      "Potatoes",
+      "Green chilli",
+      "Spices",
+      "Butter"
+    ],
+    "instructions": [
+      "Prepare potato stuffing",
+      "Stuff into dough",
+      "Roll and cook on tawa",
+      "Apply butter and serve"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Rajma Chawal",
+    "image": "https://mygoodfoodworld.com/wp-content/uploads/2024/09/Punjabi-rajma-masala-rice-hero.jpg",
+    "cuisine": "North Indian",
+    "category": "Main Course",
+    "ingredients": [
+      "Rajma",
+      "Rice",
+      "Onions",
+      "Tomatoes",
+      "Spices"
+    ],
+    "instructions": [
+      "Soak and cook rajma",
+      "Prepare gravy",
+      "Mix rajma with gravy",
+      "Serve with rice"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Chicken 65",
+    "image": "https://bonmasala.com/wp-content/uploads/2022/06/chicken-65-1.jpg",
+    "cuisine": "South Indian",
+    "category": "Starter",
+    "ingredients": [
+      "Chicken",
+      "Yogurt",
+      "Red chilli powder",
+      "Curry leaves",
+      "Oil"
+    ],
+    "instructions": [
+      "Marinate chicken",
+      "Deep fry till crispy",
+      "Temper with curry leaves",
+      "Serve hot"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Veg Sandwich",
+    "image": "https://img-global.cpcdn.com/recipes/f7da3dff291206ab/1200x630cq70/photo.jpg",
+    "cuisine": "Continental",
+    "category": "Snacks",
+    "ingredients": [
+      "Bread",
+      "Butter",
+      "Cucumber",
+      "Tomato",
+      "Cheese"
+    ],
+    "instructions": [
+      "Butter the bread",
+      "Layer vegetables",
+      "Grill or serve fresh"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "White Sauce Pasta",
+    "image": "https://lilluna.com/wp-content/uploads/2022/11/white-sauce-pasta-resize-5.jpg",
+    "cuisine": "Italian",
+    "category": "Main Course",
+    "ingredients": [
+      "Pasta",
+      "Milk",
+      "Butter",
+      "Cheese",
+      "Vegetables"
+    ],
+    "instructions": [
+      "Boil pasta",
+      "Prepare white sauce",
+      "Mix pasta and vegetables",
+      "Serve hot"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Fruit Salad",
+    "image": "https://www.modernhoney.com/wp-content/uploads/2023/05/Fruit-Salad-10.jpg",
+    "cuisine": "International",
+    "category": "Dessert",
+    "ingredients": [
+      "Apple",
+      "Banana",
+      "Grapes",
+      "Orange",
+      "Honey"
+    ],
+    "instructions": [
+      "Chop fruits",
+      "Mix in a bowl",
+      "Add honey",
+      "Serve chilled"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Lemon Tea",
+    "image": "https://i.pinimg.com/originals/1a/39/f4/1a39f4a400ba206d743e4ec8a1b69dd5.jpg",
+    "cuisine": "International",
+    "category": "Beverages",
+    "ingredients": [
+      "Tea powder",
+      "Water",
+      "Lemon",
+      "Sugar"
+    ],
+    "instructions": [
+      "Boil water with tea powder",
+      "Strain tea",
+      "Add lemon juice",
+      "Serve hot"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Curd Rice",
+    "image": "https://vanitascorner.com/wp-content/uploads/2020/11/Curd-Rice.jpg",
+    "cuisine": "South Indian",
+    "category": "Main Course",
+    "ingredients": [
+      "Rice",
+      "Curd",
+      "Mustard seeds",
+      "Curry leaves",
+      "Green chilli"
+    ],
+    "instructions": [
+      "Mix cooked rice with curd",
+      "Prepare tempering",
+      "Add tempering to rice",
+      "Serve chilled"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Banana Pancakes",
+    "image": "https://veggieworldrecipes.com/wp-content/uploads/2021/05/caramelized-banana-pancakes1-scaled-e1621036698201.jpg",
+    "cuisine": "Continental",
+    "category": "Breakfast",
+    "ingredients": [
+      "Banana",
+      "Flour",
+      "Milk",
+      "Sugar",
+      "Baking powder"
+    ],
+    "instructions": [
+      "Mash banana",
+      "Mix batter",
+      "Cook on pan",
+      "Serve with honey"
+    ]
+  }
+  ]
+}

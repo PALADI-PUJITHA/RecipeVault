@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title -->
+    <title>RecipeVault</title>
+
+    <!-- SEO Meta -->
+    <meta name="description" content="Recipe Finder App to search recipes, view details, and save favorite dishes.">
+    <meta name="keywords" content="recipe finder, recipes, cooking app, food app, javascript project">
+    <meta name="author" content="Your Name">
+
+    <!-- Open Graph / Social Preview -->
+    <meta property="og:title" content="Recipe Finder App">
+    <meta property="og:description" content="Search recipes, view details, and save your favorites.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://your-site-url/preview.png">
+
+    <!-- Favicon -->
+    <link rel="icon" href="https://tse2.mm.bing.net/th/id/OIP.E3-DX9dGDQQWY7JDfR0IqQHaHa?pid=Api&P=0&h=180">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+<div class="container">
+    <h1>🍳 RecipeVault</h1>
+
+    <div class="search-container">
+        <input id="searchInput" placeholder="Search recipes...">
+        <button id="searchBtn">Search</button>
+        <!-- <button onclick="showFavorites()">❤️ Favorites</button> -->
+         <button class="favorites-btn" onclick="showFavorites()">❤️ Favorites</button>
+
+        <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
+
+    <div id="recipeContainer"></div>
+
+    <div id="pagination"></div>
+</div>
+
+<!-- Modal -->
+<div id="recipeModal" class="modal">
+    <div class="modal-content">
+        <span id="closeBtn" class="close">&times;</span>
+        <div id="modalContent"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

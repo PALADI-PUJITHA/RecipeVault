@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>👨‍🍳 Admin – Manage Recipes</h1>
+
+    <!-- ADD RECIPE FORM -->
+    <div class="form-section">
+        <input id="name" placeholder="Recipe Name" required>
+
+        <input id="image" placeholder="Image URL (optional)">
+
+        <input id="cuisine" placeholder="Cuisine (e.g. Italian)" required>
+
+        <input id="category" placeholder="Category (e.g. Main Course)" required>
+
+        <textarea
+            id="ingredients"
+            placeholder="Ingredients (comma separated)
+Example: Chicken, Salt, Pepper, Oil"
+            rows="3"
+            required></textarea>
+
+        <textarea
+            id="instructions"
+            placeholder="Instructions (each step on a new line)
+Example:
+Heat oil
+Add chicken
+Cook for 10 mins"
+            rows="4"
+            required></textarea>
+
+        <button onclick="addRecipe()">➕ Add Recipe</button>
+    </div>
+
+    <!-- EXISTING RECIPES -->
+    <h2>🗑️ Existing Recipes</h2>
+    <div id="adminRecipeList"></div>
+
+    <button class="logout-btn" onclick="logout()">Logout</button>
+</div>
+
+<script src="admin.js"></script>
+</body>
+</html>
