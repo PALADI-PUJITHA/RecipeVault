@@ -4,7 +4,7 @@ if (!loggedInUser) {
     window.location.href = "login.html";
 }
 
-const API_URL = "http://localhost:3001/recipes";
+const API_URL = "https://recipevault-f2q0.onrender.com/recipes";
 let allRecipes = [];
 let currentPage = 1;
 const recipesPerPage = 6;
