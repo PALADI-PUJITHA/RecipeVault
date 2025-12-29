@@ -248,25 +248,7 @@ h1 {
 .fav-btn i {
     color: #fff;
 } 
-/* #favBtn {
-    padding: 12px 25px;
-    border-radius: 50px;
-    border: none;
-    cursor: pointer;
-    background: linear-gradient(45deg, #ff6b81, #ff4757);
-    color: #fff;
-    font-size: 16px;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    transition: transform 0.2s, box-shadow 0.2s;
-}
 
-#favBtn:hover {
-    transform: translateY(-3px) scale(1.05);
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
-}  */
 
 /* Favorites Button Style */
 .search-container button.favorites-btn {
